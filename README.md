@@ -1,5 +1,5 @@
-****Skin Cancer Classification Using Deep Learning****  
-Overview  
+#Skin Cancer Classification Using Deep Learning     
+Overview   
 The system incorporates a Gradient Boosting Algorithm for processing patient metadata and a Convolutional Neural Network (CNN) for assessing skin lesion photos. A multi-modal approach to classification is made possible by the dataset, which comes from the ISIC 2024 repository and includes over 400,000 tagged skin lesion photos with comprehensive metadata.
 
 Advanced data preprocessing methods, such as feature engineering and image augmentation, were used to improve performance. Users can submit skin lesion images along with corresponding metadata for real-time analysis. The system then provides a classification result to assist individuals and medical professionals in determining the probability of malignancy.
